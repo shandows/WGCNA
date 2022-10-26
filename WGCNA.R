@@ -1,4 +1,4 @@
-#######此版本适用于组织的表达量的WGCNA
+#######此版本适用于超过15个样本的表达量的WGCNA
 rm(list=ls())
 library(WGCNA)
 library(reshape2)
